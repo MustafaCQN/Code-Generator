@@ -1,13 +1,1 @@
-# Code-Generator
-
-This is a code generation project that uses OpenAI's Codex model. You can easily take this project and change it according to your needs. 
-<br>This project acts as a plain deployable front-end only project too.
-
-used packages:
-<br>streamlit
-<br>openai
-
-Link<br>
-https://mustafacqn-code-generator-code-generator-jlde2d.streamlit.app/
-
-![ornek1](https://user-images.githubusercontent.com/16370078/221704544-be70603c-f583-44e2-b6cc-4a2afc1b811b.png)
+<div class="markdown prose w-full break-words dark:prose-invert light"><h1>Code-Generator</h1><p>The Code-Generator project is designed to generate code snippets using OpenAI's Codex model. The generated code can be customized as per your requirements. Additionally, the project can also be deployed as a front-end project.</p><h3>Used Packages:</h3><ul><li>streamlit</li><li>openai</li></ul><h3>Live Link:</h3><p><a href="https://mustafacqn-code-generator-code-generator-jlde2d.streamlit.app/" target="_new">https://mustafacqn-code-generator-code-generator-jlde2d.streamlit.app/</a></p><h3>Screenshot:</h3><p><img src="https://user-images.githubusercontent.com/16370078/221704544-be70603c-f583-44e2-b6cc-4a2afc1b811b.png" alt="Code-Generator Screenshot"></p><h2>Usage:</h2><p>To use the Code-Generator project, you need to provide your OpenAI API key and comments for code creation. The project generates the code using the OpenAI Codex model and displays the generated code snippet on the webpage.</p><p>Note: Please replace <code>sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</code> with your actual OpenAI API key.</p></div>
